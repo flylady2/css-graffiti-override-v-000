@@ -6,7 +6,7 @@
   display: none;
   }
 
-  div[class = "slick wicked"] {
+  #wall div[class = "slick wicked"] {
     display: none
   }
  /* write your override styles here */
