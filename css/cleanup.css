@@ -22,7 +22,7 @@
     display:none;
   }
 
-  body div#wall div[class = "parent"] > div#tag-7.slick {
+  body div#wall div.parent > #tag-7.slick {
     display:none;
   }
  /* write your override styles here */
